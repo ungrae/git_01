@@ -8,5 +8,6 @@
 </head>
 <body>
 	First Test
+	<input type="text" />
 </body>
 </html>
